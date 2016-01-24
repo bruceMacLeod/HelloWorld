@@ -1,9 +1,11 @@
 
+
 public class Hello {
 
 	public static void main(String[] args) 
 	{
-         System.out.println("Hello, My name is Bruce M MacLeod");
+		PreAmble.amble();
+        System.out.println("Hello, My name is Bruce b. MacLeod");
 	}
 
 }
