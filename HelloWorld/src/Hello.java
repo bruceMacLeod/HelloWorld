@@ -6,6 +6,7 @@ public class Hello {
 	{
 		PreAmble.amble();
         System.out.println("Hello, My name is Bruce Bradford MacLeod");
+        PostAmble.sayGoodBye();
 	}
 
 }
