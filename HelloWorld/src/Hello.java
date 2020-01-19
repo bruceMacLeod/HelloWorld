@@ -42,6 +42,7 @@ public class Hello {
 		displayDate();
 		displayMemory();
 		PostAmble.sayGoodBye();
+		System.out.println("Hello Charlie");
 	}
 
 }
